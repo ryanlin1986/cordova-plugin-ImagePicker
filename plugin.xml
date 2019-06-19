@@ -19,7 +19,7 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-imagepicker"
+           id="nedev-cordova-plugin-imagepicker"
       version="1.2.0">
 
     <name>ImagePicker</name>
